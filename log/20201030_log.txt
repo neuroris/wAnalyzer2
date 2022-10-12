@@ -1,0 +1,3 @@
+2020-10-30 23:59:28,860 Kiwoom initializing...
+2020-10-30 23:59:31,639 Login status code : 0
+2020-10-30 23:59:31,640 Logged in to Kiwoom server
